@@ -4,7 +4,7 @@
 - I’m looking to create a team for game jams and other projects
 - How to reach me:
           felips.agsm@gmail.com - contact email
-          Felips096#3198 - discord tag
+  Felips096#3198 - discord tag
 
 <!---
 Felips096/Felips096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
