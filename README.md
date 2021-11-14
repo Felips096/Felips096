@@ -1,7 +1,7 @@
 - Hi, I’m @Felips096. I am a young brasilian developer.
 - I’m interested in programing and learning new types of code.
 - I’m currently learning c++.
-- i know how to program in java and python.
+- I know how to program in java and python.
 - I’m looking to create a team for game jams and other projects.
 - 
 - How to reach me:
